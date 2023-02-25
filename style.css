@@ -1,0 +1,30 @@
+input.input-field {
+    width: 55%;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #ddd;
+}
+
+button.btn.btn-outline-success.mt-3.mb-3 {
+    width: 20%;
+    height: 45px;
+}
+
+p.errorMsg {
+    color: red;
+}
+
+.userMainDiv {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+img {
+    border-radius: 50%;
+    border: 1px solid #dddd;
+    background-color: #ecf0f1;
+}
+
+.imgDiv {
+    width: 50%;
+}
